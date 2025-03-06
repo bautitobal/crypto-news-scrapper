@@ -16,7 +16,7 @@
    pip install -r requirements.txt
    ```
 3. Run the srapper:
-   ````bash
+   ```bash
    py crypto-scrapper.py
    ```
 
